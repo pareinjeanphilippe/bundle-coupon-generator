@@ -1,6 +1,8 @@
 # bundle-coupon-generator
  Udemy generator coupon par lot
 
+Telecharger : https://github.com/pareinjeanphilippe/bundle-coupon-generator/raw/main/bundle%20coupon%20generator.zip
+
 ![Preview](https://github.com/pareinjeanphilippe/bundle-coupon-generator/blob/main/BcgCapture.png?raw=true)
 
 1. Le fonctionnement est trés simple, vous téléchargez le fichier csv pour la création de coupons en lot dans votre tableau de bord.
