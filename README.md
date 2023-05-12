@@ -4,7 +4,7 @@
 ![Preview](https://github.com/pareinjeanphilippe/bundle-coupon-generator/blob/main/BcgCapture.png?raw=true)
 
 1. Le fonctionnement est trés simple, vous téléchargez le fichier csv pour la création de coupons en lot dans votre tableau de bord.
-![preview](https://github.com/pareinjeanphilippe/bundle-coupon-generator/blob/main/CSV%20eligible.png?raw=true)
+![preview](https://github.com/pareinjeanphilippe/bundle-coupon-generator/blob/main/infos.png?raw=true)
 2. vous selectionnez le fichier avec le bouton "Import CSV Formations"
 3. Vous selectionnez les formations sur lesquelles vous voullez appliquer le coupon.
 4. Vous renseignez :
@@ -16,4 +16,8 @@
 5. Vous Exportez le fichier CSV grace au bouton.
 
 Vous obtenez un fichier CSV formaté pour le generateur de lien par lot d'udemy :
+
 ![preview](https://github.com/pareinjeanphilippe/bundle-coupon-generator/blob/main/CsvExport.png?raw=true)
+
+Il ne vous reste plus qu'a envoyer ce fichier depuis votre tableau de bord pour générer les coupons par lots.
+![preview](https://github.com/pareinjeanphilippe/bundle-coupon-generator/blob/main/CSV%20eligible.png?raw=true)
