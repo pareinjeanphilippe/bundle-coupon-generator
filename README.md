@@ -16,4 +16,4 @@
 5. Vous Exportez le fichier CSV grace au bouton.
 
 Vous obtenez un fichier CSV formaté pour le generateur de lien par lot d'udemy :
-
+![preview](https://github.com/pareinjeanphilippe/bundle-coupon-generator/blob/main/CsvExport.png?raw=true)
