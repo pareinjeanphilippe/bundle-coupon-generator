@@ -1,0 +1,18 @@
+C:\Users\parei\Desktop\bundle coupon generator\bin\Release\net6.0-windows\bundle coupon generator.exe
+C:\Users\parei\Desktop\bundle coupon generator\bin\Release\net6.0-windows\bundle coupon generator.deps.json
+C:\Users\parei\Desktop\bundle coupon generator\bin\Release\net6.0-windows\bundle coupon generator.runtimeconfig.json
+C:\Users\parei\Desktop\bundle coupon generator\bin\Release\net6.0-windows\bundle coupon generator.dll
+C:\Users\parei\Desktop\bundle coupon generator\bin\Release\net6.0-windows\bundle coupon generator.pdb
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.csproj.AssemblyReference.cache
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle_coupon_generator.Form1.resources
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle_coupon_generator.Properties.Resources.resources
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.csproj.GenerateResource.cache
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.AssemblyInfoInputs.cache
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.AssemblyInfo.cs
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.csproj.CoreCompileInputs.cache
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.dll
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\refint\bundle coupon generator.dll
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.pdb
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\bundle coupon generator.genruntimeconfig.cache
+C:\Users\parei\Desktop\bundle coupon generator\obj\Release\net6.0-windows\ref\bundle coupon generator.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bundle coupon generator", "bundle coupon generator.csproj", "{B84BD871-2DB8-4227-AFAE-CDF21F5AF0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84BD871-2DB8-4227-AFAE-CDF21F5AF0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84BD871-2DB8-4227-AFAE-CDF21F5AF0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84BD871-2DB8-4227-AFAE-CDF21F5AF0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84BD871-2DB8-4227-AFAE-CDF21F5AF0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9760C5-03A6-4FE0-81F7-FE84FE220A09}
+	EndGlobalSection
+EndGlobal
